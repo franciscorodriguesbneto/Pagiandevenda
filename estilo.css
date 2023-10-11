@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+
+}
+ .linhaverde {
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    background-color: #5A6D57;
+
+   
+ }
+
+ .menu {
+    align-items: center;
+    justify-content: center;
+
+ }
+
+.menulogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}   
+
+.menuopcoes {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3rem;
+    padding: 30px;
+    padding-right: 30px;
+    
+    
+
+    
+   
+}
